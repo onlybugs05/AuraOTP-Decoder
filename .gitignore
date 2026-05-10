@@ -1,0 +1,13 @@
+# Secrets and generated data
+extracted_secrets.txt
+Decoded_QR_Codes/
+QR_Codes/
+
+# Python caches
+__pycache__/
+.mypy_cache/
+.pytest_cache/
+
+# OS files
+.DS_Store
+Thumbs.db
